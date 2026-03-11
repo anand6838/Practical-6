@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>GATE Registration Form</title>
+</head>
+
+<body>
+
+<h2>GATE Exam Registration Form</h2>
+
+<form>
+
+<fieldset>
+<legend>Personal Details</legend>
+
+Full Name:<br>
+<input type="text" placeholder="Enter your full name"><br><br>
+
+Email:<br>
+<input type="email" placeholder="Enter your email"><br><br>
+
+Mobile Number:<br>
+<input type="text" placeholder="Enter mobile number"><br><br>
+
+Date of Birth:<br>
+<input type="date"><br><br>
+
+
+Gender:<br>
+<input type="radio" name="g"> Male
+<input type="radio" name="g"> Female<br><br>
+
+Qualification:<br>
+<select>
+<option>Select Qualification</option>
+<option>B.Tech</option>
+<option>B.E</option>
+<option>M.Sc</option>
+</select><br><br>
+
+Branch:<br>
+<input type="text" placeholder="Enter your branch"><br><br>
+
+<input type="submit" value="Register">
+<input type="reset" value="Reset">
+
+
+</fieldset>
+
+</form>
+
+</body>
+</html>
