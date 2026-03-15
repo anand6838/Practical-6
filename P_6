@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>GATE Registration Form</title>
+<title>PRACTICAL 6</title>
 </head>
 
 <body>
@@ -53,6 +53,11 @@ Branch:<br>
 <input type="reset" value="Reset">
 
 </form>
+
+<h3 align="right">
+Anand Kumar <br>
+CS25001
+</h3>
 
 </body>
 </html>
