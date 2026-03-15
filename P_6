@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>GATE Registration Form</title>
@@ -25,10 +24,15 @@ Mobile Number:<br>
 Date of Birth:<br>
 <input type="date"><br><br>
 
-
 Gender:<br>
 <input type="radio" name="g"> Male
 <input type="radio" name="g"> Female<br><br>
+
+</fieldset>
+
+
+<fieldset>
+<legend>Qualification Details</legend>
 
 Qualification:<br>
 <select>
@@ -41,11 +45,12 @@ Qualification:<br>
 Branch:<br>
 <input type="text" placeholder="Enter your branch"><br><br>
 
+</fieldset>
+
+<br>
+
 <input type="submit" value="Register">
 <input type="reset" value="Reset">
-
-
-</fieldset>
 
 </form>
 
